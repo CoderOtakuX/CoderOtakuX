@@ -50,7 +50,7 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/CoderOtakuX/CoderOtakuX/blob/output/github-snake-dark.svg)
+  <img alt="snake eating my contributions" src="https://github.com/CoderOtakuX/CoderOtakuX/blob/output/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
