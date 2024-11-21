@@ -17,8 +17,13 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 
 
 ## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunnegi){:target="_blank"} 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjunnegi.insta){:target="_blank"}
+<a href="https://www.linkedin.com/in/arjunnegi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/arjunnegi.insta" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
