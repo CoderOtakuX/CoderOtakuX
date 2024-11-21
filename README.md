@@ -46,6 +46,15 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  ![snake gif](https://github.com/CoderOtakuX/CoderOtakuX/blob/output/github-snake-dark.svg)
+  <br/><br/><br/>
+</div>
+
+
 📊 **GitHub Stats**:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoderOtakuX&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOtakuX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
